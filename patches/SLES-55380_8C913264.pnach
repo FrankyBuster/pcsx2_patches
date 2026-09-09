@@ -25,5 +25,5 @@ patch=1,EE,00671D0C,word,3C070001
 
 [Skip FMVs]
 author=xan1242
-comment=Allows you to always skip FMVs by pressing Start.
+description=Allows you to always skip FMVs by pressing Start.
 patch=1,EE,2040E7B4,extended,00000000
